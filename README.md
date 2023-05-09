@@ -41,10 +41,10 @@ I'm currently a second-year master's student in Mechanical Engineering at Carneg
 1. GAN Photo Editing
 2. Neural Style Transfer
 3. When Cats meet GANs
-
+<!-- 
 ### Gallery 🖼️
 
-A collection of images showcasing my work and projects.
+A collection of images showcasing my work and projects. -->
 
 ### Contact 📧
 
